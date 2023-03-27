@@ -1,1 +1,2 @@
 first line in new txt file b!
+line 2

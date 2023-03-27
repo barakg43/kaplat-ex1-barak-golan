@@ -1,3 +1,4 @@
 first line in new txt file
 the second line in file a
 the third line!
+More lines!!.....
